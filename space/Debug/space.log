@@ -1,0 +1,3 @@
+﻿  space.cpp
+c:\users\tora\desktop\space\space\space.cpp(516): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  space.vcxproj -> C:\Users\tora\Desktop\Space\Debug\space.exe
